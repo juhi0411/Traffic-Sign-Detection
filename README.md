@@ -80,12 +80,3 @@ The goal of this project is to build a traffic sign recognition system for **aut
 git clone https://github.com/sunilprajapat1408/Road-Traffic-Sign-Recognition.git
 cd Road-Traffic-Sign-Recognition
 
-👨‍💻 Author
-
-Sunil Prajapat
-📍 India
-📧 Email: sunilprajapat2907@gmail.com
-🔗 GitHub: sunilprajapat1408
-
-🔗 LinkedIn: linkedin.com/in/sunil-prajapat-878663282
-
